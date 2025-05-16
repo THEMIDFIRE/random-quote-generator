@@ -1,0 +1,10 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+.btn {
+    transition: .3s linear;
+}
+.btn:hover {
+    transform: scale(1.1);
+}
